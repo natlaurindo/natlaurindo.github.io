@@ -1,2 +1,3 @@
-## Porfolio
-Natália P. Laurindo
+## Portfolio
+
+ - Natália P. Laurindo
