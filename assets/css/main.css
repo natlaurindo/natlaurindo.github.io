@@ -5,7 +5,7 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-/* line 10, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 10, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -25,57 +25,57 @@ section, summary, time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 29, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 29, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-/* line 34, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 34, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 body {
   line-height: 1;
 }
 
-/* line 38, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 38, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 42, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 42, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 blockquote, q {
   quotes: none;
 }
 
-/* line 45, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 45, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 blockquote:before, blockquote:after, q:before, q:after {
   content: '';
   content: none;
 }
 
-/* line 52, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 52, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 57, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 57, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 body {
   -webkit-text-size-adjust: none;
 }
 
-/* line 61, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 61, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 mark {
   background-color: transparent;
   color: inherit;
 }
 
-/* line 66, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 66, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 input::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
 
-/* line 71, ../natlaurindo.github.io/assets/sass/base/_reset.scss */
+/* line 71, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
 input, select, textarea {
   -moz-appearance: none;
   -webkit-appearance: none;
@@ -88,40 +88,40 @@ input, select, textarea {
   width: device-width;
 }
 
-/* line 15, ../natlaurindo.github.io/assets/sass/base/_page.scss */
+/* line 15, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
 body {
   -ms-overflow-style: scrollbar;
 }
 
 @media screen and (max-width: 480px) {
-  /* line 21, ../natlaurindo.github.io/assets/sass/base/_page.scss */
+  /* line 21, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
   html, body {
     min-width: 320px;
   }
 }
 
-/* line 28, ../natlaurindo.github.io/assets/sass/base/_page.scss */
+/* line 28, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
 html {
   box-sizing: border-box;
 }
 
-/* line 32, ../natlaurindo.github.io/assets/sass/base/_page.scss */
+/* line 32, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
 *, *:before, *:after {
   box-sizing: inherit;
 }
 
-/* line 36, ../natlaurindo.github.io/assets/sass/base/_page.scss */
+/* line 36, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
 html {
   overflow-x: hidden;
 }
 
-/* line 40, ../natlaurindo.github.io/assets/sass/base/_page.scss */
+/* line 40, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
 body {
   background: #ffffff;
   overflow-x: hidden;
 }
 
-/* line 46, ../natlaurindo.github.io/assets/sass/base/_page.scss */
+/* line 46, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
 body.is-preload *, body.is-preload *:before, body.is-preload *:after {
   -moz-animation: none !important;
   -webkit-animation: none !important;
@@ -134,46 +134,46 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 }
 
 /* Typography */
-/* line 9, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 html {
   font-size: 18pt;
 }
 
 @media screen and (max-width: 1920px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   html {
     font-size: 13pt;
   }
 }
 
 @media screen and (max-width: 1152px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   html {
     font-size: 14pt;
   }
 }
 
 @media screen and (max-width: 736px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   html {
     font-size: 12pt;
   }
 }
 
 @media screen and (max-width: 480px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   html {
     font-size: 11pt;
   }
 }
 
-/* line 29, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 29, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 body {
   background-color: #ffffff;
   color: #000000;
 }
 
-/* line 34, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 34, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 body, input, select, textarea {
   color: #000000;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -183,7 +183,7 @@ body, input, select, textarea {
   line-height: 2;
 }
 
-/* line 43, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 43, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 a {
   -moz-transition: border-bottom-color 0.25s ease-in-out;
   -webkit-transition: border-bottom-color 0.25s ease-in-out;
@@ -194,29 +194,29 @@ a {
   border-bottom: dotted 1px;
 }
 
-/* line 49, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 a:hover {
   text-decoration: none;
   border-bottom-color: transparent;
 }
 
-/* line 55, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 55, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 strong, b {
   font-weight: 600;
   color: #000000;
 }
 
-/* line 60, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 60, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 em, i {
   font-style: italic;
 }
 
-/* line 64, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 64, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 p {
   margin: 0 0 2rem 0;
 }
 
-/* line 68, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 68, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 h1, h2, h3, h4, h5, h6 {
   color: #000000;
   font-family: "Raleway", Helvetica, sans-serif;
@@ -227,13 +227,13 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
 }
 
-/* line 77, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 77, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   color: inherit;
   text-decoration: none;
 }
 
-/* line 83, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 83, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 h1 {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 5rem;
@@ -244,96 +244,96 @@ h1 {
   text-transform: none;
 }
 
-/* line 93, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 93, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 h2 {
   font-size: 1.25rem;
   font-weight: 800;
   margin: 0 0 2rem 0;
 }
 
-/* line 99, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 99, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 h3 {
   font-size: 0.875rem;
 }
 
-/* line 103, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 103, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 h4 {
   font-size: 0.875rem;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 h5 {
   font-size: 0.75rem;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 h6 {
   font-size: 0.625rem;
 }
 
 @media screen and (max-width: 736px) {
-  /* line 116, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 116, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h1 {
     font-size: 4.5rem;
     line-height: 1.1;
   }
-  /* line 121, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 121, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h2 {
     font-size: 1.25rem;
     line-height: 1.7;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h3 {
     font-size: 0.9rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h4 {
     font-size: 0.75rem;
   }
-  /* line 134, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 134, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h5 {
     font-size: 0.675rem;
   }
 }
 
 @media screen and (max-width: 360px) {
-  /* line 140, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 140, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h1 {
     font-size: 3.75rem;
   }
-  /* line 144, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 144, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h2 {
     font-size: 1.125rem;
   }
-  /* line 148, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 148, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h3 {
     font-size: 0.8rem;
   }
-  /* line 152, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 152, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h4 {
     font-size: 0.675rem;
   }
-  /* line 156, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 156, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   h5 {
     font-size: 0.675rem;
   }
 }
 
-/* line 161, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 161, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 sub {
   font-size: 0.8rem;
   position: relative;
   top: 0.5rem;
 }
 
-/* line 167, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 167, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 sup {
   font-size: 0.8rem;
   position: relative;
   top: -0.5rem;
 }
 
-/* line 173, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 173, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 blockquote {
   border-left: solid 0.5rem rgba(144, 144, 144, 0.25);
   font-style: italic;
@@ -341,7 +341,7 @@ blockquote {
   padding: 1rem 0 1rem 2rem;
 }
 
-/* line 180, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 180, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 code {
   background: rgba(144, 144, 144, 0.1);
   border-radius: 0.325rem;
@@ -351,7 +351,7 @@ code {
   padding: 0.25rem 0.65rem;
 }
 
-/* line 189, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 189, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 pre {
   -webkit-overflow-scrolling: touch;
   font-family: "Courier New", monospace;
@@ -360,7 +360,7 @@ pre {
   width: 100%;
 }
 
-/* line 196, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 196, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 pre code {
   display: block;
   line-height: 1.75;
@@ -368,27 +368,27 @@ pre code {
   overflow-x: auto;
 }
 
-/* line 204, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 204, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 hr {
   border: 0;
   border-bottom: solid 2px rgba(144, 144, 144, 0.25);
   margin: 3rem 0;
 }
 
-/* line 209, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+/* line 209, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
 hr.major {
   margin: 5rem 0;
 }
 
 @media screen and (max-width: 736px) {
-  /* line 214, ../natlaurindo.github.io/assets/sass/base/_typography.scss */
+  /* line 214, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
   hr.major {
     margin: 3rem 0;
   }
 }
 
 /* Row */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_row.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_row.scss */
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -396,1519 +396,1519 @@ hr.major {
   align-items: stretch;
 }
 
-/* line 49, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > * {
   box-sizing: border-box;
 }
 
-/* line 56, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 56, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-uniform > * > :last-child {
   margin-bottom: 0;
 }
 
-/* line 63, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 63, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.aln-left {
   justify-content: flex-start;
 }
 
-/* line 67, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 67, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.aln-center {
   justify-content: center;
 }
 
-/* line 71, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 71, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.aln-right {
   justify-content: flex-end;
 }
 
-/* line 75, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 75, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.aln-top {
   align-items: flex-start;
 }
 
-/* line 79, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 79, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.aln-middle {
   align-items: center;
 }
 
-/* line 83, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 83, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.aln-bottom {
   align-items: flex-end;
 }
 
-/* line 101, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 101, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .imp {
   order: -1;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-1 {
   width: 8.33333%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-1 {
   margin-left: 8.33333%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-2 {
   width: 16.66667%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-2 {
   margin-left: 16.66667%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-3 {
   width: 25%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-3 {
   margin-left: 25%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-4 {
   width: 33.33333%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-4 {
   margin-left: 33.33333%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-5 {
   width: 41.66667%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-5 {
   margin-left: 41.66667%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-6 {
   width: 50%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-6 {
   margin-left: 50%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-7 {
   width: 58.33333%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-7 {
   margin-left: 58.33333%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-8 {
   width: 66.66667%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-8 {
   margin-left: 66.66667%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-9 {
   width: 75%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-9 {
   margin-left: 75%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-10 {
   width: 83.33333%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-10 {
   margin-left: 83.33333%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-11 {
   width: 91.66667%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-11 {
   margin-left: 91.66667%;
 }
 
-/* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .col-12 {
   width: 100%;
 }
 
-/* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > .off-12 {
   margin-left: 100%;
 }
 
-/* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-0 {
   margin-top: 0;
   margin-left: 0rem;
 }
 
-/* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-0 > * {
   padding: 0 0 0 0rem;
 }
 
-/* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-0.gtr-uniform {
   margin-top: 0rem;
 }
 
-/* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-0.gtr-uniform > * {
   padding-top: 0rem;
 }
 
-/* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-25 {
   margin-top: 0;
   margin-left: -0.5rem;
 }
 
-/* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-25 > * {
   padding: 0 0 0 0.5rem;
 }
 
-/* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-25.gtr-uniform {
   margin-top: -0.5rem;
 }
 
-/* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-25.gtr-uniform > * {
   padding-top: 0.5rem;
 }
 
-/* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-50 {
   margin-top: 0;
   margin-left: -1rem;
 }
 
-/* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-50 > * {
   padding: 0 0 0 1rem;
 }
 
-/* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-50.gtr-uniform {
   margin-top: -1rem;
 }
 
-/* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-50.gtr-uniform > * {
   padding-top: 1rem;
 }
 
-/* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row {
   margin-top: 0;
   margin-left: -2rem;
 }
 
-/* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row > * {
   padding: 0 0 0 2rem;
 }
 
-/* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-uniform {
   margin-top: -2rem;
 }
 
-/* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-uniform > * {
   padding-top: 2rem;
 }
 
-/* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-150 {
   margin-top: 0;
   margin-left: -3rem;
 }
 
-/* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-150 > * {
   padding: 0 0 0 3rem;
 }
 
-/* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-150.gtr-uniform {
   margin-top: -3rem;
 }
 
-/* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-150.gtr-uniform > * {
   padding-top: 3rem;
 }
 
-/* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-200 {
   margin-top: 0;
   margin-left: -4rem;
 }
 
-/* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-200 > * {
   padding: 0 0 0 4rem;
 }
 
-/* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-200.gtr-uniform {
   margin-top: -4rem;
 }
 
-/* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+/* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
 .row.gtr-200.gtr-uniform > * {
   padding-top: 4rem;
 }
 
 @media screen and (max-width: 1920px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/components/_row.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_row.scss */
   .row {
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
     align-items: stretch;
   }
-  /* line 49, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     box-sizing: border-box;
   }
-  /* line 56, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 56, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * > :last-child {
     margin-bottom: 0;
   }
-  /* line 63, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 63, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-left {
     justify-content: flex-start;
   }
-  /* line 67, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 67, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-center {
     justify-content: center;
   }
-  /* line 71, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 71, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-right {
     justify-content: flex-end;
   }
-  /* line 75, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 75, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-top {
     align-items: flex-start;
   }
-  /* line 79, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 79, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-middle {
     align-items: center;
   }
-  /* line 83, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 83, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-bottom {
     align-items: flex-end;
   }
-  /* line 101, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 101, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .imp-xlarge {
     order: -1;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-1-xlarge {
     width: 8.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-1-xlarge {
     margin-left: 8.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-2-xlarge {
     width: 16.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-2-xlarge {
     margin-left: 16.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-3-xlarge {
     width: 25%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-3-xlarge {
     margin-left: 25%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-4-xlarge {
     width: 33.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-4-xlarge {
     margin-left: 33.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-5-xlarge {
     width: 41.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-5-xlarge {
     margin-left: 41.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-6-xlarge {
     width: 50%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-6-xlarge {
     margin-left: 50%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-7-xlarge {
     width: 58.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-7-xlarge {
     margin-left: 58.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-8-xlarge {
     width: 66.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-8-xlarge {
     margin-left: 66.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-9-xlarge {
     width: 75%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-9-xlarge {
     margin-left: 75%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-10-xlarge {
     width: 83.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-10-xlarge {
     margin-left: 83.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-11-xlarge {
     width: 91.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-11-xlarge {
     margin-left: 91.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-12-xlarge {
     width: 100%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-12-xlarge {
     margin-left: 100%;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 {
     margin-top: 0;
     margin-left: 0rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 > * {
     padding: 0 0 0 0rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform {
     margin-top: 0rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform > * {
     padding-top: 0rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 {
     margin-top: 0;
     margin-left: -0.5rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 > * {
     padding: 0 0 0 0.5rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform {
     margin-top: -0.5rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform > * {
     padding-top: 0.5rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 {
     margin-top: 0;
     margin-left: -1rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 > * {
     padding: 0 0 0 1rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform {
     margin-top: -1rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform > * {
     padding-top: 1rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row {
     margin-top: 0;
     margin-left: -2rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     padding: 0 0 0 2rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform {
     margin-top: -2rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * {
     padding-top: 2rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 {
     margin-top: 0;
     margin-left: -3rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 > * {
     padding: 0 0 0 3rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform {
     margin-top: -3rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform > * {
     padding-top: 3rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 {
     margin-top: 0;
     margin-left: -4rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 > * {
     padding: 0 0 0 4rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform {
     margin-top: -4rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform > * {
     padding-top: 4rem;
   }
 }
 
 @media screen and (max-width: 1280px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/components/_row.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_row.scss */
   .row {
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
     align-items: stretch;
   }
-  /* line 49, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     box-sizing: border-box;
   }
-  /* line 56, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 56, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * > :last-child {
     margin-bottom: 0;
   }
-  /* line 63, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 63, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-left {
     justify-content: flex-start;
   }
-  /* line 67, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 67, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-center {
     justify-content: center;
   }
-  /* line 71, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 71, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-right {
     justify-content: flex-end;
   }
-  /* line 75, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 75, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-top {
     align-items: flex-start;
   }
-  /* line 79, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 79, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-middle {
     align-items: center;
   }
-  /* line 83, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 83, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-bottom {
     align-items: flex-end;
   }
-  /* line 101, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 101, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .imp-large {
     order: -1;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-1-large {
     width: 8.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-1-large {
     margin-left: 8.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-2-large {
     width: 16.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-2-large {
     margin-left: 16.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-3-large {
     width: 25%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-3-large {
     margin-left: 25%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-4-large {
     width: 33.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-4-large {
     margin-left: 33.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-5-large {
     width: 41.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-5-large {
     margin-left: 41.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-6-large {
     width: 50%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-6-large {
     margin-left: 50%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-7-large {
     width: 58.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-7-large {
     margin-left: 58.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-8-large {
     width: 66.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-8-large {
     margin-left: 66.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-9-large {
     width: 75%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-9-large {
     margin-left: 75%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-10-large {
     width: 83.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-10-large {
     margin-left: 83.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-11-large {
     width: 91.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-11-large {
     margin-left: 91.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-12-large {
     width: 100%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-12-large {
     margin-left: 100%;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 {
     margin-top: 0;
     margin-left: 0rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 > * {
     padding: 0 0 0 0rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform {
     margin-top: 0rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform > * {
     padding-top: 0rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 {
     margin-top: 0;
     margin-left: -0.375rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 > * {
     padding: 0 0 0 0.375rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform {
     margin-top: -0.375rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform > * {
     padding-top: 0.375rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 {
     margin-top: 0;
     margin-left: -0.75rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 > * {
     padding: 0 0 0 0.75rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform {
     margin-top: -0.75rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform > * {
     padding-top: 0.75rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row {
     margin-top: 0;
     margin-left: -1.5rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     padding: 0 0 0 1.5rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform {
     margin-top: -1.5rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * {
     padding-top: 1.5rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 {
     margin-top: 0;
     margin-left: -2.25rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 > * {
     padding: 0 0 0 2.25rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform {
     margin-top: -2.25rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform > * {
     padding-top: 2.25rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 {
     margin-top: 0;
     margin-left: -3rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 > * {
     padding: 0 0 0 3rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform {
     margin-top: -3rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform > * {
     padding-top: 3rem;
   }
 }
 
 @media screen and (max-width: 1152px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/components/_row.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_row.scss */
   .row {
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
     align-items: stretch;
   }
-  /* line 49, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     box-sizing: border-box;
   }
-  /* line 56, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 56, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * > :last-child {
     margin-bottom: 0;
   }
-  /* line 63, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 63, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-left {
     justify-content: flex-start;
   }
-  /* line 67, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 67, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-center {
     justify-content: center;
   }
-  /* line 71, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 71, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-right {
     justify-content: flex-end;
   }
-  /* line 75, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 75, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-top {
     align-items: flex-start;
   }
-  /* line 79, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 79, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-middle {
     align-items: center;
   }
-  /* line 83, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 83, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-bottom {
     align-items: flex-end;
   }
-  /* line 101, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 101, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .imp-medium {
     order: -1;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-1-medium {
     width: 8.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-1-medium {
     margin-left: 8.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-2-medium {
     width: 16.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-2-medium {
     margin-left: 16.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-3-medium {
     width: 25%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-3-medium {
     margin-left: 25%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-4-medium {
     width: 33.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-4-medium {
     margin-left: 33.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-5-medium {
     width: 41.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-5-medium {
     margin-left: 41.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-6-medium {
     width: 50%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-6-medium {
     margin-left: 50%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-7-medium {
     width: 58.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-7-medium {
     margin-left: 58.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-8-medium {
     width: 66.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-8-medium {
     margin-left: 66.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-9-medium {
     width: 75%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-9-medium {
     margin-left: 75%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-10-medium {
     width: 83.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-10-medium {
     margin-left: 83.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-11-medium {
     width: 91.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-11-medium {
     margin-left: 91.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-12-medium {
     width: 100%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-12-medium {
     margin-left: 100%;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 {
     margin-top: 0;
     margin-left: 0rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 > * {
     padding: 0 0 0 0rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform {
     margin-top: 0rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform > * {
     padding-top: 0rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 {
     margin-top: 0;
     margin-left: -0.375rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 > * {
     padding: 0 0 0 0.375rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform {
     margin-top: -0.375rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform > * {
     padding-top: 0.375rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 {
     margin-top: 0;
     margin-left: -0.75rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 > * {
     padding: 0 0 0 0.75rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform {
     margin-top: -0.75rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform > * {
     padding-top: 0.75rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row {
     margin-top: 0;
     margin-left: -1.5rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     padding: 0 0 0 1.5rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform {
     margin-top: -1.5rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * {
     padding-top: 1.5rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 {
     margin-top: 0;
     margin-left: -2.25rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 > * {
     padding: 0 0 0 2.25rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform {
     margin-top: -2.25rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform > * {
     padding-top: 2.25rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 {
     margin-top: 0;
     margin-left: -3rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 > * {
     padding: 0 0 0 3rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform {
     margin-top: -3rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform > * {
     padding-top: 3rem;
   }
 }
 
 @media screen and (max-width: 736px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/components/_row.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_row.scss */
   .row {
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
     align-items: stretch;
   }
-  /* line 49, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     box-sizing: border-box;
   }
-  /* line 56, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 56, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * > :last-child {
     margin-bottom: 0;
   }
-  /* line 63, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 63, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-left {
     justify-content: flex-start;
   }
-  /* line 67, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 67, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-center {
     justify-content: center;
   }
-  /* line 71, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 71, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-right {
     justify-content: flex-end;
   }
-  /* line 75, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 75, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-top {
     align-items: flex-start;
   }
-  /* line 79, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 79, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-middle {
     align-items: center;
   }
-  /* line 83, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 83, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-bottom {
     align-items: flex-end;
   }
-  /* line 101, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 101, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .imp-small {
     order: -1;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-1-small {
     width: 8.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-1-small {
     margin-left: 8.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-2-small {
     width: 16.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-2-small {
     margin-left: 16.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-3-small {
     width: 25%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-3-small {
     margin-left: 25%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-4-small {
     width: 33.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-4-small {
     margin-left: 33.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-5-small {
     width: 41.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-5-small {
     margin-left: 41.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-6-small {
     width: 50%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-6-small {
     margin-left: 50%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-7-small {
     width: 58.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-7-small {
     margin-left: 58.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-8-small {
     width: 66.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-8-small {
     margin-left: 66.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-9-small {
     width: 75%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-9-small {
     margin-left: 75%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-10-small {
     width: 83.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-10-small {
     margin-left: 83.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-11-small {
     width: 91.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-11-small {
     margin-left: 91.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-12-small {
     width: 100%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-12-small {
     margin-left: 100%;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 {
     margin-top: 0;
     margin-left: 0rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 > * {
     padding: 0 0 0 0rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform {
     margin-top: 0rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform > * {
     padding-top: 0rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 {
     margin-top: 0;
     margin-left: -0.3125rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 > * {
     padding: 0 0 0 0.3125rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform {
     margin-top: -0.3125rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform > * {
     padding-top: 0.3125rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 {
     margin-top: 0;
     margin-left: -0.625rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 > * {
     padding: 0 0 0 0.625rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform {
     margin-top: -0.625rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform > * {
     padding-top: 0.625rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row {
     margin-top: 0;
     margin-left: -1.25rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     padding: 0 0 0 1.25rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform {
     margin-top: -1.25rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * {
     padding-top: 1.25rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 {
     margin-top: 0;
     margin-left: -1.875rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 > * {
     padding: 0 0 0 1.875rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform {
     margin-top: -1.875rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform > * {
     padding-top: 1.875rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 {
     margin-top: 0;
     margin-left: -2.5rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 > * {
     padding: 0 0 0 2.5rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform {
     margin-top: -2.5rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform > * {
     padding-top: 2.5rem;
   }
 }
 
 @media screen and (max-width: 480px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/components/_row.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_row.scss */
   .row {
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
     align-items: stretch;
   }
-  /* line 49, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     box-sizing: border-box;
   }
-  /* line 56, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 56, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * > :last-child {
     margin-bottom: 0;
   }
-  /* line 63, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 63, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-left {
     justify-content: flex-start;
   }
-  /* line 67, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 67, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-center {
     justify-content: center;
   }
-  /* line 71, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 71, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-right {
     justify-content: flex-end;
   }
-  /* line 75, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 75, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-top {
     align-items: flex-start;
   }
-  /* line 79, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 79, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-middle {
     align-items: center;
   }
-  /* line 83, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 83, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.aln-bottom {
     align-items: flex-end;
   }
-  /* line 101, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 101, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .imp-xsmall {
     order: -1;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-1-xsmall {
     width: 8.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-1-xsmall {
     margin-left: 8.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-2-xsmall {
     width: 16.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-2-xsmall {
     margin-left: 16.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-3-xsmall {
     width: 25%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-3-xsmall {
     margin-left: 25%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-4-xsmall {
     width: 33.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-4-xsmall {
     margin-left: 33.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-5-xsmall {
     width: 41.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-5-xsmall {
     margin-left: 41.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-6-xsmall {
     width: 50%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-6-xsmall {
     margin-left: 50%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-7-xsmall {
     width: 58.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-7-xsmall {
     margin-left: 58.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-8-xsmall {
     width: 66.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-8-xsmall {
     margin-left: 66.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-9-xsmall {
     width: 75%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-9-xsmall {
     margin-left: 75%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-10-xsmall {
     width: 83.33333%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-10-xsmall {
     margin-left: 83.33333%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-11-xsmall {
     width: 91.66667%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-11-xsmall {
     margin-left: 91.66667%;
   }
-  /* line 107, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 107, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .col-12-xsmall {
     width: 100%;
   }
-  /* line 111, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 111, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > .off-12-xsmall {
     margin-left: 100%;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 {
     margin-top: 0;
     margin-left: 0rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0 > * {
     padding: 0 0 0 0rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform {
     margin-top: 0rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-0.gtr-uniform > * {
     padding-top: 0rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 {
     margin-top: 0;
     margin-left: -0.3125rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25 > * {
     padding: 0 0 0 0.3125rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform {
     margin-top: -0.3125rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-25.gtr-uniform > * {
     padding-top: 0.3125rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 {
     margin-top: 0;
     margin-left: -0.625rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50 > * {
     padding: 0 0 0 0.625rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform {
     margin-top: -0.625rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-50.gtr-uniform > * {
     padding-top: 0.625rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row {
     margin-top: 0;
     margin-left: -1.25rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row > * {
     padding: 0 0 0 1.25rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform {
     margin-top: -1.25rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-uniform > * {
     padding-top: 1.25rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 {
     margin-top: 0;
     margin-left: -1.875rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150 > * {
     padding: 0 0 0 1.875rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform {
     margin-top: -1.875rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-150.gtr-uniform > * {
     padding-top: 1.875rem;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 {
     margin-top: 0;
     margin-left: -2.5rem;
   }
-  /* line 130, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 130, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200 > * {
     padding: 0 0 0 2.5rem;
   }
-  /* line 135, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 135, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform {
     margin-top: -2.5rem;
   }
-  /* line 138, ../natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
+  /* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_html-grid.scss */
   .row.gtr-200.gtr-uniform > * {
     padding-top: 2.5rem;
   }
 }
 
 /* Box */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_box.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_box.scss */
 .box {
   border: solid 2px rgba(144, 144, 144, 0.25);
   border-radius: 0.325rem;
@@ -1916,12 +1916,12 @@ hr.major {
   padding: 1.5rem;
 }
 
-/* line 15, ../natlaurindo.github.io/assets/sass/components/_box.scss */
+/* line 15, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_box.scss */
 .box > :last-child {
   margin-bottom: 0;
 }
 
-/* line 19, ../natlaurindo.github.io/assets/sass/components/_box.scss */
+/* line 19, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_box.scss */
 .box.alt {
   border: 0;
   border-radius: 0;
@@ -1929,7 +1929,7 @@ hr.major {
 }
 
 /* Button */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"],
 input[type="reset"],
 input[type="button"],
@@ -1963,7 +1963,7 @@ button,
   white-space: nowrap;
 }
 
-/* line 39, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 39, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover,
@@ -1973,7 +1973,7 @@ button:hover,
   color: #3f2e64 !important;
 }
 
-/* line 44, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 44, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"]:active,
 input[type="reset"]:active,
 input[type="button"]:active,
@@ -1984,7 +1984,7 @@ button:active,
   color: #3f2e64 !important;
 }
 
-/* line 50, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 50, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"].small,
 input[type="reset"].small,
 input[type="button"].small,
@@ -1996,7 +1996,7 @@ button.small,
   padding: 0 1.25rem;
 }
 
-/* line 57, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 57, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"].large,
 input[type="reset"].large,
 input[type="button"].large,
@@ -2008,7 +2008,7 @@ button.large,
   padding: 0 3.25rem;
 }
 
-/* line 64, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 64, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"].wide,
 input[type="reset"].wide,
 input[type="button"].wide,
@@ -2017,7 +2017,7 @@ button.wide,
   min-width: 13rem;
 }
 
-/* line 69, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 69, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"].icon:before,
 input[type="reset"].icon:before,
 input[type="button"].icon:before,
@@ -2026,7 +2026,7 @@ button.icon:before,
   margin-right: 0.5rem;
 }
 
-/* line 74, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 74, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"].fit,
 input[type="reset"].fit,
 input[type="button"].fit,
@@ -2035,7 +2035,7 @@ button.fit,
   width: 100%;
 }
 
-/* line 78, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 78, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"].disabled, input[type="submit"]:disabled,
 input[type="reset"].disabled,
 input[type="reset"]:disabled,
@@ -2049,7 +2049,7 @@ button:disabled,
   opacity: 0.25;
 }
 
-/* line 84, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 84, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"].primary,
 input[type="reset"].primary,
 input[type="button"].primary,
@@ -2060,7 +2060,7 @@ button.primary,
   color: #000000 !important;
 }
 
-/* line 89, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 89, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"].primary:hover,
 input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
@@ -2069,7 +2069,7 @@ button.primary:hover,
   background-color: #6a39d8;
 }
 
-/* line 93, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+/* line 93, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
 input[type="submit"].primary:active,
 input[type="reset"].primary:active,
 input[type="button"].primary:active,
@@ -2079,7 +2079,7 @@ button.primary:active,
 }
 
 @media screen and (max-width: 736px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
   input[type="submit"],
   input[type="reset"],
   input[type="button"],
@@ -2089,7 +2089,7 @@ button.primary:active,
     height: 3.3rem;
     line-height: 3.3rem;
   }
-  /* line 103, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+  /* line 103, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
   input[type="submit"].large,
   input[type="reset"].large,
   input[type="button"].large,
@@ -2099,7 +2099,7 @@ button.primary:active,
     height: 3.75rem;
     line-height: 3.75rem;
   }
-  /* line 109, ../natlaurindo.github.io/assets/sass/components/_button.scss */
+  /* line 109, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
   input[type="submit"].small,
   input[type="reset"].small,
   input[type="button"].small,
@@ -2112,17 +2112,17 @@ button.primary:active,
 }
 
 /* Form */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 form {
   margin: 0 0 2rem 0;
 }
 
-/* line 12, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 12, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 form > :last-child {
   margin-bottom: 0;
 }
 
-/* line 16, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 16, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 form > .fields {
   display: -moz-flex;
   display: -webkit-flex;
@@ -2136,7 +2136,7 @@ form > .fields {
   width: calc(100% + 4rem);
 }
 
-/* line 24, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 24, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 form > .fields > .field {
   -moz-flex-grow: 0;
   -webkit-flex-grow: 0;
@@ -2150,52 +2150,52 @@ form > .fields > .field {
   width: calc(100% - 2rem);
 }
 
-/* line 30, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 30, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 form > .fields > .field > :last-child {
   margin-bottom: 0;
 }
 
-/* line 34, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 34, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 form > .fields > .field.half {
   width: calc(50% - 1rem);
 }
 
-/* line 38, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 38, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 form > .fields > .field.third {
   width: calc(100%/3 - 0.66667rem);
 }
 
-/* line 42, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 42, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 form > .fields > .field.quarter {
   width: calc(25% - 0.5rem);
 }
 
 @media screen and (max-width: 480px) {
-  /* line 49, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+  /* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
   form > .fields {
     margin: -1.5rem 0 2rem -1.5rem;
     width: calc(100% + 3rem);
   }
-  /* line 55, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+  /* line 55, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
   form > .fields > .field {
     padding: 1.5rem 0 0 1.5rem;
     width: calc(100% - 1.5rem);
   }
-  /* line 59, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+  /* line 59, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
   form > .fields > .field.half {
     width: calc(100% - 1.5rem);
   }
-  /* line 63, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+  /* line 63, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
   form > .fields > .field.third {
     width: calc(100% - 1.5rem);
   }
-  /* line 67, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+  /* line 67, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
   form > .fields > .field.quarter {
     width: calc(100% - 1.5rem);
   }
 }
 
-/* line 75, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 75, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="text"],
 input[type="password"],
 input[type="email"],
@@ -2218,7 +2218,7 @@ textarea {
   width: 100%;
 }
 
-/* line 93, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 93, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="text"]:invalid,
 input[type="password"]:invalid,
 input[type="email"]:invalid,
@@ -2230,7 +2230,7 @@ textarea:invalid {
   box-shadow: none;
 }
 
-/* line 97, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 97, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="text"]:focus,
 input[type="password"]:focus,
 input[type="email"]:focus,
@@ -2242,7 +2242,7 @@ textarea:focus {
   border-color: #3f2e64;
 }
 
-/* line 102, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 102, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 label {
   color: #000000;
   display: block;
@@ -2255,7 +2255,7 @@ label {
   text-transform: uppercase;
 }
 
-/* line 114, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 114, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="text"],
 input[type="password"],
 input[type="email"],
@@ -2265,7 +2265,7 @@ input[type="url"] {
   height: 3rem;
 }
 
-/* line 123, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 123, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 select {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='rgba(144, 144, 144, 0.25)' /%3E%3C/svg%3E");
   background-position: calc(100% - 1rem) center;
@@ -2276,28 +2276,28 @@ select {
   text-overflow: ellipsis;
 }
 
-/* line 132, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 132, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 select option {
   background-color: #ffffff;
   color: #000000;
 }
 
-/* line 138, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 select:focus::-ms-value {
   background-color: transparent;
 }
 
-/* line 143, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 143, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 select::-ms-expand {
   display: none;
 }
 
-/* line 148, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 148, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 textarea {
   padding: 0.75rem 1rem;
 }
 
-/* line 152, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 152, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="checkbox"],
 input[type="radio"] {
   -moz-appearance: none;
@@ -2312,7 +2312,7 @@ input[type="radio"] {
   z-index: -1;
 }
 
-/* line 162, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 162, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="checkbox"] + label,
 input[type="radio"] + label {
   text-decoration: none;
@@ -2329,7 +2329,7 @@ input[type="radio"] + label {
   text-transform: none;
 }
 
-/* line 9, ../natlaurindo.github.io/assets/sass/libs/_mixins.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_mixins.scss */
 input[type="checkbox"] + label:before,
 input[type="radio"] + label:before {
   -moz-osx-font-smoothing: grayscale;
@@ -2344,7 +2344,7 @@ input[type="radio"] + label:before {
   font-weight: 900;
 }
 
-/* line 176, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 176, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="checkbox"] + label:before,
 input[type="radio"] + label:before {
   border-radius: 0.325rem;
@@ -2361,7 +2361,7 @@ input[type="radio"] + label:before {
   width: 2.25rem;
 }
 
-/* line 193, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 193, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
   content: '\f00c';
@@ -2370,53 +2370,53 @@ input[type="radio"]:checked + label:before {
   color: #ffffff;
 }
 
-/* line 202, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 202, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
   border-color: #4d2a9b;
   box-shadow: 0 0 0 1px #4d2a9b;
 }
 
-/* line 211, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 211, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="checkbox"] + label:before {
   border-radius: 0.325rem;
 }
 
-/* line 219, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 219, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="radio"] + label:before {
   border-radius: 100%;
 }
 
-/* line 225, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 225, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 ::-webkit-input-placeholder {
   opacity: 1.0;
   color: rgba(0, 0, 0, 0.25) !important;
 }
 
-/* line 230, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 230, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 :-moz-placeholder {
   opacity: 1.0;
   color: rgba(0, 0, 0, 0.25) !important;
 }
 
-/* line 235, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 235, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 ::-moz-placeholder {
   opacity: 1.0;
   color: rgba(0, 0, 0, 0.25) !important;
 }
 
-/* line 240, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+/* line 240, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 :-ms-input-placeholder {
   opacity: 1.0;
   color: rgba(0, 0, 0, 0.25) !important;
 }
 
 @media screen and (max-width: 736px) {
-  /* line 246, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+  /* line 246, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
   label {
     font-size: 0.675rem;
   }
-  /* line 252, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+  /* line 252, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
   input[type="checkbox"] + label,
   input[type="radio"] + label {
     font-size: 1rem;
@@ -2424,11 +2424,11 @@ input[type="radio"] + label:before {
 }
 
 @media screen and (max-width: 360px) {
-  /* line 259, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+  /* line 259, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
   label {
     font-size: 0.675rem;
   }
-  /* line 265, ../natlaurindo.github.io/assets/sass/components/_form.scss */
+  /* line 265, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
   input[type="checkbox"] + label,
   input[type="radio"] + label {
     font-size: 1rem;
@@ -2436,14 +2436,14 @@ input[type="radio"] + label:before {
 }
 
 /* Icon */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_icon.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icon.scss */
 .icon {
   text-decoration: none;
   border-bottom: none;
   position: relative;
 }
 
-/* line 9, ../natlaurindo.github.io/assets/sass/libs/_mixins.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/libs/_mixins.scss */
 .icon:before {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -2457,35 +2457,35 @@ input[type="radio"] + label:before {
   font-weight: 400;
 }
 
-/* line 14, ../natlaurindo.github.io/assets/sass/components/_icon.scss */
+/* line 14, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icon.scss */
 .icon > .label {
   display: none;
 }
 
-/* line 19, ../natlaurindo.github.io/assets/sass/components/_icon.scss */
+/* line 19, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icon.scss */
 .icon.solid:before {
   font-weight: 900;
 }
 
-/* line 25, ../natlaurindo.github.io/assets/sass/components/_icon.scss */
+/* line 25, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icon.scss */
 .icon.brands:before {
   font-family: 'Font Awesome 5 Brands';
 }
 
 /* Image */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image {
   border: 0;
   display: inline-block;
   position: relative;
 }
 
-/* line 14, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 14, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image img {
   display: block;
 }
 
-/* line 19, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 19, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position] img {
   -moz-object-fit: cover;
   -webkit-object-fit: cover;
@@ -2499,7 +2499,7 @@ input[type="radio"] + label:before {
   height: 100%;
 }
 
-/* line 31, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 31, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="top left"] img {
   -moz-object-position: top left;
   -webkit-object-position: top left;
@@ -2507,7 +2507,7 @@ input[type="radio"] + label:before {
   object-position: top left;
 }
 
-/* line 37, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 37, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="top"] img {
   -moz-object-position: top;
   -webkit-object-position: top;
@@ -2515,7 +2515,7 @@ input[type="radio"] + label:before {
   object-position: top;
 }
 
-/* line 43, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 43, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="top right"] img {
   -moz-object-position: top right;
   -webkit-object-position: top right;
@@ -2523,7 +2523,7 @@ input[type="radio"] + label:before {
   object-position: top right;
 }
 
-/* line 49, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="right"] img {
   -moz-object-position: right;
   -webkit-object-position: right;
@@ -2531,7 +2531,7 @@ input[type="radio"] + label:before {
   object-position: right;
 }
 
-/* line 55, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 55, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="bottom right"] img {
   -moz-object-position: bottom right;
   -webkit-object-position: bottom right;
@@ -2539,7 +2539,7 @@ input[type="radio"] + label:before {
   object-position: bottom right;
 }
 
-/* line 61, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 61, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="bottom"] img {
   -moz-object-position: bottom;
   -webkit-object-position: bottom;
@@ -2547,7 +2547,7 @@ input[type="radio"] + label:before {
   object-position: bottom;
 }
 
-/* line 67, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 67, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="bottom left"] img {
   -moz-object-position: bottom left;
   -webkit-object-position: bottom left;
@@ -2555,7 +2555,7 @@ input[type="radio"] + label:before {
   object-position: bottom left;
 }
 
-/* line 73, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 73, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="left"] img {
   -moz-object-position: left;
   -webkit-object-position: left;
@@ -2563,7 +2563,7 @@ input[type="radio"] + label:before {
   object-position: left;
 }
 
-/* line 79, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 79, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="center"] img {
   -moz-object-position: center;
   -webkit-object-position: center;
@@ -2571,7 +2571,7 @@ input[type="radio"] + label:before {
   object-position: center;
 }
 
-/* line 85, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 85, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="25% 25%"] img {
   -moz-object-position: 25% 25%;
   -webkit-object-position: 25% 25%;
@@ -2579,7 +2579,7 @@ input[type="radio"] + label:before {
   object-position: 25% 25%;
 }
 
-/* line 91, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 91, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="75% 25%"] img {
   -moz-object-position: 75% 25%;
   -webkit-object-position: 75% 25%;
@@ -2587,7 +2587,7 @@ input[type="radio"] + label:before {
   object-position: 75% 25%;
 }
 
-/* line 97, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 97, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="75% 75%"] img {
   -moz-object-position: 75% 75%;
   -webkit-object-position: 75% 75%;
@@ -2595,7 +2595,7 @@ input[type="radio"] + label:before {
   object-position: 75% 75%;
 }
 
-/* line 103, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 103, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image[data-position="25% 75%"] img {
   -moz-object-position: 25% 75%;
   -webkit-object-position: 25% 75%;
@@ -2603,60 +2603,60 @@ input[type="radio"] + label:before {
   object-position: 25% 75%;
 }
 
-/* line 108, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 108, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.left, .image.right {
   max-width: 40%;
 }
 
-/* line 112, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 112, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.left img, .image.right img {
   width: 100%;
 }
 
-/* line 117, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 117, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.left {
   float: left;
   margin: 0 2rem 2rem 0;
   top: 0.25rem;
 }
 
-/* line 123, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 123, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.right {
   float: right;
   margin: 0 0 2rem 2rem;
   top: 0.25rem;
 }
 
-/* line 129, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 129, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.fit {
   display: block;
   margin: 0 0 2rem 0;
   width: 100%;
 }
 
-/* line 134, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 134, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.fit img {
   width: 100%;
 }
 
-/* line 139, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 139, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.main {
   display: block;
   margin: 3rem 0;
   width: 100%;
 }
 
-/* line 144, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 144, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.main img {
   width: 100%;
 }
 
-/* line 148, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 148, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.main:first-child {
   margin-top: 0;
 }
 
-/* line 153, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 153, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.fill {
   height: 100%;
   left: 0;
@@ -2665,7 +2665,7 @@ input[type="radio"] + label:before {
   width: 100%;
 }
 
-/* line 160, ../natlaurindo.github.io/assets/sass/components/_image.scss */
+/* line 160, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
 .image.fill img {
   height: 100%;
   left: 0;
@@ -2675,106 +2675,106 @@ input[type="radio"] + label:before {
 }
 
 /* List */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ol {
   list-style: decimal;
   margin: 0 0 2rem 0;
   padding-left: 1.25rem;
 }
 
-/* line 14, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 14, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ol li {
   padding-left: 0.25rem;
 }
 
-/* line 19, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 19, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul {
   list-style: disc;
   margin: 0 0 2rem 0;
   padding-left: 1rem;
 }
 
-/* line 24, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 24, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul li {
   padding-left: 0.325rem;
 }
 
-/* line 28, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 28, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul.alt {
   list-style: none;
   padding-left: 0;
 }
 
-/* line 32, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 32, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul.alt > li {
   border-top: solid 1px rgba(144, 144, 144, 0.25);
   padding: 0.75rem 0;
 }
 
-/* line 36, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 36, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul.alt > li:first-child {
   border-top: 0;
   padding-top: 0;
 }
 
-/* line 41, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 41, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul.alt > li:last-child {
   padding-bottom: 0;
 }
 
-/* line 47, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 47, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul.items {
   list-style: none;
   padding-left: 0;
 }
 
-/* line 51, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 51, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul.items > li {
   padding-left: 0;
   margin: 0 0 3rem 0;
 }
 
-/* line 55, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 55, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul.items > li > h3 {
   margin: 0 0 1rem 0;
 }
 
-/* line 59, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 59, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul.items > li > :last-child {
   margin-bottom: 0;
 }
 
-/* line 63, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 63, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 ul.items > li:last-child {
   margin-bottom: 0;
 }
 
 @media screen and (max-width: 736px) {
-  /* line 71, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+  /* line 71, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
   ul.items > li {
     margin: 0 0 2rem 0;
   }
 }
 
-/* line 78, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 78, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 dl {
   margin: 0 0 2rem 0;
 }
 
-/* line 81, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 81, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 dl dt {
   display: block;
   font-weight: 600;
   margin: 0 0 1rem 0;
 }
 
-/* line 87, ../natlaurindo.github.io/assets/sass/components/_list.scss */
+/* line 87, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_list.scss */
 dl dd {
   margin-left: 1.5rem;
 }
 
 /* Actions */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions {
   display: -moz-flex;
   display: -webkit-flex;
@@ -2786,13 +2786,13 @@ ul.actions {
   padding-left: 0;
 }
 
-/* line 16, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 16, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions li {
   padding: 0 0 0 1rem;
   vertical-align: middle;
 }
 
-/* line 21, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 21, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions.special {
   -moz-justify-content: center;
   -webkit-justify-content: center;
@@ -2802,12 +2802,12 @@ ul.actions.special {
   margin-left: 0;
 }
 
-/* line 27, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 27, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions.special li:first-child {
   padding-left: 0;
 }
 
-/* line 33, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 33, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions.stacked {
   -moz-flex-direction: column;
   -webkit-flex-direction: column;
@@ -2816,22 +2816,22 @@ ul.actions.stacked {
   margin-left: 0;
 }
 
-/* line 37, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 37, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions.stacked li {
   padding: 1.3rem 0 0 0;
 }
 
-/* line 40, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 40, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions.stacked li:first-child {
   padding-top: 0;
 }
 
-/* line 46, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 46, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions.fit {
   width: calc(100% + 1rem);
 }
 
-/* line 49, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 49, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions.fit li {
   -moz-flex-grow: 1;
   -webkit-flex-grow: 1;
@@ -2844,18 +2844,18 @@ ul.actions.fit li {
   width: 100%;
 }
 
-/* line 54, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 54, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions.fit li > * {
   width: 100%;
 }
 
-/* line 59, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+/* line 59, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
 ul.actions.fit.stacked {
   width: 100%;
 }
 
 @media screen and (max-width: 480px) {
-  /* line 65, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+  /* line 65, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
   ul.actions:not(.fixed) {
     -moz-flex-direction: column;
     -webkit-flex-direction: column;
@@ -2864,7 +2864,7 @@ ul.actions.fit.stacked {
     margin-left: 0;
     width: 100% !important;
   }
-  /* line 70, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+  /* line 70, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
   ul.actions:not(.fixed) li {
     -moz-flex-grow: 1;
     -webkit-flex-grow: 1;
@@ -2878,15 +2878,15 @@ ul.actions.fit.stacked {
     text-align: center;
     width: 100%;
   }
-  /* line 77, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+  /* line 77, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
   ul.actions:not(.fixed) li > * {
     width: 100%;
   }
-  /* line 81, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+  /* line 81, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
   ul.actions:not(.fixed) li:first-child {
     padding-top: 0;
   }
-  /* line 85, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+  /* line 85, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
   ul.actions:not(.fixed) li input[type="submit"],
   ul.actions:not(.fixed) li input[type="reset"],
   ul.actions:not(.fixed) li input[type="button"],
@@ -2894,7 +2894,7 @@ ul.actions.fit.stacked {
   ul.actions:not(.fixed) li .button {
     width: 100%;
   }
-  /* line 93, ../natlaurindo.github.io/assets/sass/components/_actions.scss */
+  /* line 93, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_actions.scss */
   ul.actions:not(.fixed) li input[type="submit"].icon:before,
   ul.actions:not(.fixed) li input[type="reset"].icon:before,
   ul.actions:not(.fixed) li input[type="button"].icon:before,
@@ -2905,24 +2905,24 @@ ul.actions.fit.stacked {
 }
 
 /* Icons */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_icons.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icons.scss */
 ul.icons {
   cursor: default;
   list-style: none;
   padding-left: 0;
 }
 
-/* line 14, ../natlaurindo.github.io/assets/sass/components/_icons.scss */
+/* line 14, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icons.scss */
 ul.icons li {
   display: inline-block;
 }
 
-/* line 17, ../natlaurindo.github.io/assets/sass/components/_icons.scss */
+/* line 17, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icons.scss */
 ul.icons li:last-child {
   padding-right: 0;
 }
 
-/* line 21, ../natlaurindo.github.io/assets/sass/components/_icons.scss */
+/* line 21, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icons.scss */
 ul.icons li .icon {
   -moz-transition: background-color 0.25s ease-in-out;
   -webkit-transition: background-color 0.25s ease-in-out;
@@ -2936,47 +2936,47 @@ ul.icons li .icon {
   display: inline-block;
 }
 
-/* line 30, ../natlaurindo.github.io/assets/sass/components/_icons.scss */
+/* line 30, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icons.scss */
 ul.icons li .icon:before {
   font-size: 1.25rem;
 }
 
-/* line 34, ../natlaurindo.github.io/assets/sass/components/_icons.scss */
+/* line 34, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icons.scss */
 ul.icons li .icon:hover {
   background-color: rgba(144, 144, 144, 0.1);
 }
 
 /* Table */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 .table-wrapper {
   -webkit-overflow-scrolling: touch;
   overflow-x: auto;
 }
 
-/* line 14, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 14, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table {
   margin: 0 0 2rem 0;
   width: 100%;
 }
 
-/* line 19, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 19, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table tbody tr {
   border: solid 1px rgba(144, 144, 144, 0.25);
   border-left: 0;
   border-right: 0;
 }
 
-/* line 24, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 24, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table tbody tr:nth-child(2n + 1) {
   background-color: rgba(144, 144, 144, 0.1);
 }
 
-/* line 30, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 30, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table td {
   padding: 0.75rem 0.75rem;
 }
 
-/* line 34, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 34, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table th {
   color: #000000;
   font-size: 0.9rem;
@@ -2985,50 +2985,50 @@ table th {
   text-align: left;
 }
 
-/* line 42, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 42, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table thead {
   border-bottom: solid 2px rgba(144, 144, 144, 0.25);
 }
 
-/* line 46, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 46, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table tfoot {
   border-top: solid 2px rgba(144, 144, 144, 0.25);
 }
 
-/* line 50, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 50, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table.alt {
   border-collapse: separate;
 }
 
-/* line 55, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 55, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table.alt tbody tr td {
   border: solid 1px rgba(144, 144, 144, 0.25);
   border-left-width: 0;
   border-top-width: 0;
 }
 
-/* line 60, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 60, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table.alt tbody tr td:first-child {
   border-left-width: 1px;
 }
 
-/* line 66, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 66, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table.alt tbody tr:first-child td {
   border-top-width: 1px;
 }
 
-/* line 73, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 73, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table.alt thead {
   border-bottom: 0;
 }
 
-/* line 77, ../natlaurindo.github.io/assets/sass/components/_table.scss */
+/* line 77, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_table.scss */
 table.alt tfoot {
   border-top: 0;
 }
 
 /* Arrow */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_arrow.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_arrow.scss */
 a.arrow {
   border-bottom: 0;
   display: inline-block;
@@ -3037,12 +3037,12 @@ a.arrow {
   width: 6rem;
 }
 
-/* line 16, ../natlaurindo.github.io/assets/sass/components/_arrow.scss */
+/* line 16, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_arrow.scss */
 a.arrow .label {
   display: none;
 }
 
-/* line 20, ../natlaurindo.github.io/assets/sass/components/_arrow.scss */
+/* line 20, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_arrow.scss */
 a.arrow:before {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 512 512'%3E%3Cpath d='M442.53,346.28L293.65,495.16c-0.33,0.33-0.7,0.62-1.05,0.94c-9.16,9.77-22.15,15.9-36.6,15.9 c-14.44,0-27.43-6.13-36.59-15.88c-0.35-0.33-0.72-0.62-1.06-0.96L69.47,346.28c-19.62-19.62-19.62-51.44,0-71.05 c19.62-19.62,51.43-19.62,71.06,0l65.23,65.23V50.24C205.76,22.5,228.25,0,256,0s50.24,22.5,50.24,50.24v290.21l65.23-65.23 c19.62-19.62,51.43-19.62,71.05,0C462.15,294.84,462.15,326.66,442.53,346.28z' fill='%23000000' /%3E%3C/svg%3E");
   background-position: center;
@@ -3087,14 +3087,14 @@ a.arrow:before {
 }
 
 @-ms-keyframes gallery-modal-spinner {
-  /* line 10, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 10, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   0% {
     -moz-transform: rotate(0deg);
     -webkit-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
     transform: rotate(0deg);
   }
-  /* line 14, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 14, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   100% {
     -moz-transform: rotate(360deg);
     -webkit-transform: rotate(360deg);
@@ -3118,7 +3118,7 @@ a.arrow:before {
   }
 }
 
-/* line 19, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 19, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -3126,7 +3126,7 @@ a.arrow:before {
   width: calc(100% + 1.25rem);
 }
 
-/* line 27, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 27, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery a {
   border-bottom: 0;
   display: block;
@@ -3136,7 +3136,7 @@ a.arrow:before {
   width: calc(50% - 1.25rem);
 }
 
-/* line 35, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 35, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery a img {
   display: block;
   height: 25vw;
@@ -3146,22 +3146,22 @@ a.arrow:before {
   width: 100%;
 }
 
-/* line 44, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 44, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery a.landscape {
   width: 100%;
 }
 
-/* line 47, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 47, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery a.landscape img {
   height: 30vw;
 }
 
-/* line 53, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 53, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery a.portrait img {
   height: 30vw;
 }
 
-/* line 59, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 59, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery .modal {
   display: -moz-flex;
   display: -webkit-flex;
@@ -3197,7 +3197,7 @@ a.arrow:before {
   z-index: 0;
 }
 
-/* line 82, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 82, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery .modal:before {
   -moz-animation: gallery-modal-spinner 1s infinite linear;
   -webkit-animation: gallery-modal-spinner 1s infinite linear;
@@ -3226,7 +3226,7 @@ a.arrow:before {
   width: 4rem;
 }
 
-/* line 101, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 101, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery .modal:after {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='64px' height='64px' viewBox='0 0 64 64' zoomAndPan='disable'%3E%3Cstyle%3Eline %7Bstroke: %23000000%3Bstroke-width: 2px%3B%7D%3C/style%3E%3Cline x1='20' y1='20' x2='44' y2='44' /%3E%3Cline x1='20' y1='44' x2='44' y2='20' /%3E%3C/svg%3E");
   background-position: center;
@@ -3242,7 +3242,7 @@ a.arrow:before {
   width: 4rem;
 }
 
-/* line 116, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 116, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery .modal .inner {
   -moz-transform: translateY(0.75rem);
   -webkit-transform: translateY(0.75rem);
@@ -3255,7 +3255,7 @@ a.arrow:before {
   opacity: 0;
 }
 
-/* line 124, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 124, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery .modal .inner img {
   box-shadow: 0 1rem 3rem 0 rgba(0, 0, 0, 0.35);
   display: block;
@@ -3263,7 +3263,7 @@ a.arrow:before {
   max-width: 90vw;
 }
 
-/* line 132, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 132, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery .modal.visible {
   pointer-events: auto;
   opacity: 1;
@@ -3271,12 +3271,12 @@ a.arrow:before {
   z-index: 11000;
 }
 
-/* line 138, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 138, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery .modal.visible:before {
   opacity: 1;
 }
 
-/* line 144, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 144, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery .modal.loaded .inner {
   -moz-transform: translateY(0);
   -webkit-transform: translateY(0);
@@ -3289,7 +3289,7 @@ a.arrow:before {
   opacity: 1;
 }
 
-/* line 153, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+/* line 153, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
 .gallery .modal.loaded:before {
   -moz-transition-delay: 0s;
   -webkit-transition-delay: 0s;
@@ -3299,67 +3299,67 @@ a.arrow:before {
 }
 
 @media screen and (max-width: 1152px) {
-  /* line 162, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 162, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a img {
     height: 20rem;
   }
-  /* line 167, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 167, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a.landscape img {
     height: 25rem;
   }
-  /* line 173, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 173, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a.portrait img {
     height: 25rem;
   }
-  /* line 181, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 181, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery .modal .inner img {
     max-width: 100vw;
   }
 }
 
 @media screen and (max-width: 736px) {
-  /* line 19, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 19, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery {
     margin: -0.625rem 0 0 -0.625rem;
     width: calc(100% + 0.625rem);
   }
-  /* line 194, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 194, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a {
     margin: 0.625rem 0 0 0.625rem;
     width: calc(50% - 0.625rem);
   }
-  /* line 198, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 198, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a img {
     height: 20rem;
   }
-  /* line 203, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 203, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a.landscape img {
     height: 20rem;
   }
-  /* line 209, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 209, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a.portrait img {
     height: 30rem;
   }
 }
 
 @media screen and (max-width: 480px) {
-  /* line 218, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 218, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a img {
     height: 12rem;
     min-height: 0;
   }
-  /* line 224, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 224, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a.landscape img {
     height: 12rem;
   }
-  /* line 230, ../natlaurindo.github.io/assets/sass/components/_gallery.scss */
+  /* line 230, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_gallery.scss */
   .gallery a.portrait img {
     height: 14rem;
   }
 }
 
 /* Feature Icons */
-/* line 9, ../natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
+/* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
 ul.feature-icons {
   display: flex;
   flex-wrap: wrap;
@@ -3368,12 +3368,12 @@ ul.feature-icons {
   padding-left: 0;
 }
 
-/* line 16, ../natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
+/* line 16, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
 ul.feature-icons:first-child {
   margin-top: 0;
 }
 
-/* line 20, ../natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
+/* line 20, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
 ul.feature-icons li {
   margin: 2.5rem 0 0 0;
   padding: 0.5rem 0 0 4.5rem;
@@ -3381,7 +3381,7 @@ ul.feature-icons li {
   width: 50%;
 }
 
-/* line 26, ../natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
+/* line 26, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
 ul.feature-icons li:before {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' x='0px' y='0px' viewBox='0 0 512 512'%3E%3Cpath d='M256,0l221.7,128v256L256,512L34.3,384V128L256,0z' fill='rgba(144, 144, 144, 0.1)' /%3E%3C/svg%3E");
   background-position: center;
@@ -3399,35 +3399,35 @@ ul.feature-icons li:before {
   width: 3.25rem;
 }
 
-/* line 43, ../natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
+/* line 43, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
 ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   margin-top: 0;
 }
 
 @media screen and (max-width: 736px) {
-  /* line 9, ../natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
+  /* line 9, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
   ul.feature-icons {
     margin: 0 0 3rem 0;
   }
-  /* line 52, ../natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
+  /* line 52, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
   ul.feature-icons li {
     width: 100%;
   }
-  /* line 55, ../natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
+  /* line 55, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
   ul.feature-icons li:nth-child(2) {
     margin-top: 2rem;
   }
 }
 
 /* Wrapper */
-/* line 161, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 161, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper {
   position: relative;
   width: 100vw;
   padding: 0 0 10rem 0;
 }
 
-/* line 168, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 168, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper:before {
   background-attachment: fixed;
   background-color: #4d2a9b;
@@ -3445,7 +3445,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   z-index: -1;
 }
 
-/* line 186, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 186, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section {
   display: grid;
   grid-template-areas: "header content" "footer content";
@@ -3453,24 +3453,24 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   grid-template-rows: 1fr;
 }
 
-/* line 192, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 192, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section:first-child {
   margin-top: 0;
 }
 
-/* line 196, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 196, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > header {
   grid-area: header;
   justify-self: end;
   text-align: right;
 }
 
-/* line 201, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 201, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > header h2 {
   margin: 0 0 5rem 0;
 }
 
-/* line 205, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 205, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > header h1 + p {
   font-family: "Raleway", Helvetica, sans-serif;
   font-size: 0.8rem;
@@ -3479,35 +3479,35 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   text-transform: uppercase;
 }
 
-/* line 214, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 214, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > header ul.actions {
   justify-content: flex-end;
 }
 
-/* line 219, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 219, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > .content {
   grid-area: content;
   max-width: 60rem;
   position: relative;
 }
 
-/* line 225, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 225, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > footer {
   grid-area: footer;
   text-align: right;
 }
 
-/* line 229, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 229, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > footer ul.actions {
   justify-content: flex-end;
 }
 
-/* line 236, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 236, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section {
   position: relative;
 }
 
-/* line 242, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 242, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header:before {
   background: #463963;
   content: '';
@@ -3517,12 +3517,12 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   width: 2px;
 }
 
-/* line 252, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 252, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header h1, #wrapper > section > header h2 {
   position: relative;
 }
 
-/* line 256, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 256, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header h1:before, #wrapper > section > header h2:before {
   background: #463963;
   content: '';
@@ -3532,7 +3532,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   top: 1rem;
 }
 
-/* line 266, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 266, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header h1:after, #wrapper > section > header h2:after {
   background: #463963;
   border-radius: 0.5rem;
@@ -3544,64 +3544,64 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   width: 0.5rem;
 }
 
-/* line 279, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 279, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header h1 {
   margin-top: -2rem;
 }
 
-/* line 282, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 282, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header h1:before {
   top: 3rem;
 }
 
-/* line 286, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 286, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header h1:after {
   top: 2.75rem;
 }
 
-/* line 294, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 294, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > .content > section {
   position: relative;
 }
 
-/* line 297, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 297, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > .content > section:first-child {
   margin-top: 6rem;
 }
 
-/* line 304, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 304, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro {
   align-items: center;
 }
 
-/* line 307, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 307, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro > header {
   padding-top: 4rem;
   width: 100%;
 }
 
-/* line 314, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 314, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro > header > * {
   margin-left: auto;
 }
 
-/* line 319, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 319, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro > header:before {
   left: auto;
 }
 
-/* line 325, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 325, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro > .content {
   height: 100vh;
   max-width: none;
 }
 
-/* line 336, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 336, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section:last-of-type > header:before {
   height: 100%;
 }
 
-/* line 341, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 341, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section:last-of-type > header:after {
   background: #463963;
   border-radius: 0.5rem;
@@ -3614,7 +3614,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   z-index: 1;
 }
 
-/* line 359, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 359, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper .copyright {
   color: rgba(0, 0, 0, 0.25);
   font-size: 1rem;
@@ -3623,212 +3623,212 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   width: 50vw;
 }
 
-/* line 366, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 366, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper .copyright a {
   color: inherit;
 }
 
-/* line 13, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 13, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section {
   margin: 7.5rem 0 0 0;
 }
 
-/* line 16, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 16, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > header {
   padding: 0 10rem 0 5rem;
   width: 35rem;
 }
 
-/* line 21, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 21, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > .content {
   padding: 0 5rem;
 }
 
-/* line 25, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 25, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper section > footer {
   padding: 0 10rem;
 }
 
-/* line 35, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 35, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header:before {
   height: calc(100% + 10rem);
   left: calc(50vw - 5rem);
 }
 
-/* line 44, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 44, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header h1:before, #wrapper > section > header h2:before {
   right: -5rem;
   width: 2.5rem;
 }
 
-/* line 50, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 50, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header h1:after, #wrapper > section > header h2:after {
   right: -2.5rem;
 }
 
-/* line 59, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 59, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > .content > section {
   left: calc(-50vw - 5rem);
 }
 
-/* line 62, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 62, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > .content > section > header {
   width: 32rem;
 }
 
-/* line 75, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 75, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro > header > * {
   width: 20rem;
 }
 
-/* line 80, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 80, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro > header:before {
   margin-left: calc(50vw - 10rem);
 }
 
 @media screen and (max-width: 1152px) {
-  /* line 85, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 85, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header > * {
     width: 100%;
   }
-  /* line 89, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 89, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header:before {
     margin-left: 0;
   }
 }
 
-/* line 102, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 102, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section:last-of-type > header:after {
   left: calc(50vw - 5rem - 0.25rem + 1px);
 }
 
-/* line 112, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 112, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper .copyright {
   padding: 0 5rem;
 }
 
 @media screen and (max-width: 1280px) {
-  /* line 161, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 161, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper {
     padding: 0 0 8rem 0;
   }
-  /* line 13, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 13, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section {
     margin: 6rem 0 0 0;
   }
-  /* line 16, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 16, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section > header {
     padding: 0 8rem 0 4rem;
     width: 33rem;
   }
-  /* line 21, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 21, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section > .content {
     padding: 0 4rem;
   }
-  /* line 25, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 25, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section > footer {
     padding: 0 8rem;
   }
-  /* line 35, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 35, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header:before {
     height: calc(100% + 8rem);
     left: calc(50vw - 4rem);
   }
-  /* line 44, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 44, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header h1:before, #wrapper > section > header h2:before {
     right: -4rem;
     width: 2rem;
   }
-  /* line 50, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 50, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header h1:after, #wrapper > section > header h2:after {
     right: -2rem;
   }
-  /* line 59, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 59, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > section {
     left: calc(-50vw - 4rem);
   }
-  /* line 62, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 62, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > section > header {
     width: 30rem;
   }
-  /* line 75, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 75, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header > * {
     width: 21rem;
   }
-  /* line 80, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 80, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header:before {
     margin-left: calc(50vw - 8rem);
   }
 }
 
 @media screen and (max-width: 1280px) and (max-width: 1152px) {
-  /* line 85, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 85, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header > * {
     width: 100%;
   }
-  /* line 89, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 89, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header:before {
     margin-left: 0;
   }
 }
 
 @media screen and (max-width: 1280px) {
-  /* line 102, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 102, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section:last-of-type > header:after {
     left: calc(50vw - 4rem - 0.25rem + 1px);
   }
-  /* line 112, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 112, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper .copyright {
     padding: 0 4rem;
   }
 }
 
 @media screen and (max-width: 1152px) {
-  /* line 161, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 161, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper {
     padding: 0;
   }
-  /* line 388, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 388, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper:before {
     display: none;
   }
-  /* line 393, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 393, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section {
     grid-template-areas: "header" "content" "footer";
     grid-template-columns: 1fr;
     grid-template-rows: 3fr;
   }
-  /* line 398, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 398, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section > header {
     justify-self: start;
     padding: 0;
     text-align: left;
     width: 100%;
   }
-  /* line 404, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 404, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section > header ul.actions {
     justify-content: flex-start;
   }
-  /* line 409, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 409, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section > .content {
     padding: 0;
     width: 100%;
     overflow-x: hidden;
   }
-  /* line 415, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 415, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section > footer {
     padding: 0;
     text-align: left;
   }
-  /* line 419, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 419, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section > footer ul.actions {
     justify-content: flex-start;
   }
-  /* line 426, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 426, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section {
     margin: 0;
   }
-  /* line 429, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 429, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header {
     background-attachment: fixed;
     background-color: #4d2a9b;
@@ -3837,190 +3837,190 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
     background-repeat: repeat-y;
     background-size: 40rem auto;
   }
-  /* line 437, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 437, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header > * {
     max-width: 25rem;
   }
-  /* line 441, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 441, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header > :last-child {
     margin-bottom: 0;
   }
-  /* line 446, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 446, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header:before {
     display: none;
   }
-  /* line 454, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 454, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header h1:before, #wrapper > section > header h2:before {
     display: none;
   }
-  /* line 459, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 459, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header h1:after, #wrapper > section > header h2:after {
     display: none;
   }
-  /* line 468, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 468, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > :last-child {
     margin-bottom: 0;
   }
-  /* line 472, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 472, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > section {
     left: 0;
   }
-  /* line 475, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 475, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > section:first-child {
     margin-top: 0;
   }
-  /* line 479, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 479, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > section > header {
     width: 100%;
   }
-  /* line 483, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 483, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > section:last-child {
     margin-bottom: 0;
   }
-  /* line 490, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 490, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > footer > :last-child {
     margin-bottom: 0;
   }
-  /* line 496, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 496, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro {
     margin-bottom: 0;
   }
-  /* line 499, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 499, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header {
     margin-bottom: 0;
   }
-  /* line 502, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 502, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header ul.actions {
     display: none;
   }
-  /* line 507, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 507, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header > * {
     margin-left: 0;
     margin-right: 0;
     width: 100%;
   }
-  /* line 513, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 513, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header > ul.actions {
     margin-left: -1rem;
   }
-  /* line 517, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 517, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header:before {
     margin-left: 0;
   }
-  /* line 529, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 529, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section:last-of-type > header:after {
     display: none;
   }
-  /* line 539, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 539, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper .copyright {
     left: 0;
     width: 100%;
   }
-  /* line 121, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 121, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section {
     margin: 6rem 0 0 0;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section {
     margin: 0;
   }
-  /* line 129, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 129, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header {
     padding: 4rem 4rem;
   }
-  /* line 133, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 133, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content {
     padding: 4rem 4rem;
   }
-  /* line 136, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 136, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > section {
     margin: 4rem 0;
   }
-  /* line 141, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 141, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > footer {
     padding: 0 4rem 4rem 4rem;
   }
-  /* line 147, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 147, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header {
     padding: 8rem 4rem 5rem 4rem;
   }
-  /* line 155, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 155, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper .copyright {
     padding: 0 4rem 4rem 4rem;
   }
 }
 
 @media screen and (max-width: 736px) {
-  /* line 121, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 121, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section {
     margin: 3rem 0 0 0;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section {
     margin: 0;
   }
-  /* line 129, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 129, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header {
     padding: 3rem 2rem;
   }
-  /* line 133, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 133, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content {
     padding: 3rem 2rem;
   }
-  /* line 136, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 136, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > section {
     margin: 3rem 0;
   }
-  /* line 141, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 141, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > footer {
     padding: 0 2rem 3rem 2rem;
   }
-  /* line 147, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 147, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header {
     padding: 5.5rem 2rem 2.5rem 2rem;
   }
-  /* line 155, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 155, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper .copyright {
     padding: 0 2rem 2rem 2rem;
   }
 }
 
 @media screen and (max-width: 360px) {
-  /* line 121, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 121, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper section {
     margin: 2.25rem 0 0 0;
   }
-  /* line 126, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 126, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section {
     margin: 0;
   }
-  /* line 129, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 129, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > header {
     padding: 2.25rem 1.5rem;
   }
-  /* line 133, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 133, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content {
     padding: 2.25rem 1.5rem;
   }
-  /* line 136, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 136, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > .content > section {
     margin: 2.25rem 0;
   }
-  /* line 141, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 141, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section > footer {
     padding: 0 1.5rem 2.25rem 1.5rem;
   }
-  /* line 147, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 147, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header {
     padding: 4.875rem 1.5rem 1.875rem 1.5rem;
   }
-  /* line 155, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 155, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper .copyright {
     padding: 0 1.5rem 1.5rem 1.5rem;
   }
 }
 
-/* line 572, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 572, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-mobile #wrapper:before {
   background-attachment: scroll;
   background-position: 50% -3%;
@@ -4028,95 +4028,95 @@ body.is-mobile #wrapper:before {
   background-size: 150% auto;
 }
 
-/* line 581, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 581, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-mobile #wrapper > section > header {
   background-attachment: scroll;
   background-position: 25% 50%;
 }
 
-/* line 588, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 588, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-mobile #wrapper > section.intro > header {
   background-position: 25% 23%;
 }
 
-/* line 602, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 602, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper:before {
   transition: opacity 1s ease;
 }
 
-/* line 605, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 605, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-preload #wrapper:before {
   opacity: 0;
 }
 
-/* line 614, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 614, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro {
   transition: opacity 1s ease;
   opacity: 1;
 }
 
-/* line 618, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 618, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro > header {
   transition: transform 1s ease;
 }
 
-/* line 622, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 622, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section.intro > .content {
   transition: transform 1s ease;
 }
 
-/* line 626, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 626, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-preload #wrapper > section.intro {
   opacity: 0;
 }
 
-/* line 629, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 629, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-preload #wrapper > section.intro > header {
   transform: translateY(1rem);
 }
 
-/* line 633, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 633, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-preload #wrapper > section.intro > .content {
   transform: translateY(-1rem);
 }
 
 @media screen and (max-width: 1280px) {
-  /* line 640, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 640, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   #wrapper > section.intro > header > * {
     transition: transform 1s ease, opacity 1s ease;
   }
-  /* line 646, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 646, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   body.is-preload #wrapper > section.intro > header {
     transform: none;
   }
-  /* line 649, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 649, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   body.is-preload #wrapper > section.intro > header > * {
     transform: translate(-0.5rem);
     opacity: 0;
   }
-  /* line 655, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 655, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   body.is-preload #wrapper > section.intro > .content {
     transform: none;
   }
 }
 
-/* line 672, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 672, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-ie #wrapper section {
   display: flex;
   flex-wrap: wrap;
 }
 
-/* line 676, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 676, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-ie #wrapper section > header {
   width: 50%;
 }
 
-/* line 680, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 680, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-ie #wrapper section > .content {
   width: 50%;
 }
 
-/* line 684, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 684, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-ie #wrapper section > footer {
   width: 50%;
   text-align: left;
@@ -4124,13 +4124,13 @@ body.is-ie #wrapper section > footer {
   padding: 5rem;
 }
 
-/* line 695, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+/* line 695, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 body.is-ie #wrapper > section > .content > section {
   width: 100vw;
 }
 
 @media screen and (max-width: 1280px) {
-  /* line 706, ../natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
+  /* line 706, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
   body.is-ie #wrapper section > footer {
     padding: 4rem;
   }

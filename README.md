@@ -1,2 +1,3 @@
 ## Portfolio
-Natália P. Laurindo - [natlaurindo.github.io](natlaurindo.github.io)
+
+Natália Laurindo - [natlaurindo.github.io](natlaurindo.github.io)
