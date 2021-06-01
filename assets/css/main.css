@@ -6,17 +6,87 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 /* line 10, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
-html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
-pre, a, abbr, acronym, address, big, cite,
-code, del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var, b,
-u, i, center, dl, dt, dd, ol, ul, li, fieldset,
-form, label, legend, table, caption, tbody,
-tfoot, thead, tr, th, td, article, aside,
-canvas, details, embed, figure, figcaption,
-footer, header, hgroup, menu, nav, output, ruby,
-section, summary, time, mark, audio, video {
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
   margin: 0;
   padding: 0;
   border: 0;
@@ -26,8 +96,17 @@ section, summary, time, mark, audio, video {
 }
 
 /* line 29, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
   display: block;
 }
 
@@ -37,18 +116,23 @@ body {
 }
 
 /* line 38, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
-ol, ul {
+ol,
+ul {
   list-style: none;
 }
 
 /* line 42, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
-blockquote, q {
+blockquote,
+q {
   quotes: none;
 }
 
 /* line 45, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
-blockquote:before, blockquote:after, q:before, q:after {
-  content: '';
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
   content: none;
 }
 
@@ -76,7 +160,9 @@ input::-moz-focus-inner {
 }
 
 /* line 71, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_reset.scss */
-input, select, textarea {
+input,
+select,
+textarea {
   -moz-appearance: none;
   -webkit-appearance: none;
   -ms-appearance: none;
@@ -95,7 +181,8 @@ body {
 
 @media screen and (max-width: 480px) {
   /* line 21, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
-  html, body {
+  html,
+  body {
     min-width: 320px;
   }
 }
@@ -106,7 +193,9 @@ html {
 }
 
 /* line 32, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
@@ -122,7 +211,9 @@ body {
 }
 
 /* line 46, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_page.scss */
-body.is-preload *, body.is-preload *:before, body.is-preload *:after {
+body.is-preload *,
+body.is-preload *:before,
+body.is-preload *:after {
   -moz-animation: none !important;
   -webkit-animation: none !important;
   -ms-animation: none !important;
@@ -174,7 +265,10 @@ body {
 }
 
 /* line 34, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
-body, input, select, textarea {
+body,
+input,
+select,
+textarea {
   color: #000000;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 1rem;
@@ -201,13 +295,15 @@ a:hover {
 }
 
 /* line 55, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
-strong, b {
+strong,
+b {
   font-weight: 600;
   color: #000000;
 }
 
 /* line 60, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
-em, i {
+em,
+i {
   font-style: italic;
 }
 
@@ -217,7 +313,12 @@ p {
 }
 
 /* line 68, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: #000000;
   font-family: "Raleway", Helvetica, sans-serif;
   font-weight: 600;
@@ -228,7 +329,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* line 77, ../../../../Projects/natlaurindo.github.io/assets/sass/base/_typography.scss */
-h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
   color: inherit;
   text-decoration: none;
 }
@@ -1939,10 +2045,14 @@ button,
   -webkit-appearance: none;
   -ms-appearance: none;
   appearance: none;
-  -moz-transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out, color 0.25s ease-in-out;
-  -webkit-transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out, color 0.25s ease-in-out;
-  -ms-transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out, color 0.25s ease-in-out;
-  transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out, color 0.25s ease-in-out;
+  -moz-transition: background-color 0.25s ease-in-out,
+    box-shadow 0.25s ease-in-out, color 0.25s ease-in-out;
+  -webkit-transition: background-color 0.25s ease-in-out,
+    box-shadow 0.25s ease-in-out, color 0.25s ease-in-out;
+  -ms-transition: background-color 0.25s ease-in-out,
+    box-shadow 0.25s ease-in-out, color 0.25s ease-in-out;
+  transition: background-color 0.25s ease-in-out, box-shadow 0.25s ease-in-out,
+    color 0.25s ease-in-out;
   background-color: transparent;
   border-radius: 0.325rem;
   border: 0;
@@ -2036,7 +2146,8 @@ button.fit,
 }
 
 /* line 78, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_button.scss */
-input[type="submit"].disabled, input[type="submit"]:disabled,
+input[type="submit"].disabled,
+input[type="submit"]:disabled,
 input[type="reset"].disabled,
 input[type="reset"]:disabled,
 input[type="button"].disabled,
@@ -2162,7 +2273,7 @@ form > .fields > .field.half {
 
 /* line 38, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 form > .fields > .field.third {
-  width: calc(100%/3 - 0.66667rem);
+  width: calc(100% / 3 - 0.66667rem);
 }
 
 /* line 42, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
@@ -2340,7 +2451,7 @@ input[type="radio"] + label:before {
   text-rendering: auto;
   line-height: 1;
   text-transform: none !important;
-  font-family: 'Font Awesome 5 Free';
+  font-family: "Font Awesome 5 Free";
   font-weight: 900;
 }
 
@@ -2349,7 +2460,7 @@ input[type="checkbox"] + label:before,
 input[type="radio"] + label:before {
   border-radius: 0.325rem;
   border: solid 2px rgba(144, 144, 144, 0.25);
-  content: '';
+  content: "";
   display: inline-block;
   font-size: 0.8rem;
   height: 2.25rem;
@@ -2364,7 +2475,7 @@ input[type="radio"] + label:before {
 /* line 193, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 input[type="checkbox"]:checked + label:before,
 input[type="radio"]:checked + label:before {
-  content: '\f00c';
+  content: "\f00c";
   background-color: #4d2a9b;
   border-color: #4d2a9b;
   color: #ffffff;
@@ -2389,25 +2500,25 @@ input[type="radio"] + label:before {
 
 /* line 225, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 ::-webkit-input-placeholder {
-  opacity: 1.0;
+  opacity: 1;
   color: rgba(0, 0, 0, 0.25) !important;
 }
 
 /* line 230, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 :-moz-placeholder {
-  opacity: 1.0;
+  opacity: 1;
   color: rgba(0, 0, 0, 0.25) !important;
 }
 
 /* line 235, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 ::-moz-placeholder {
-  opacity: 1.0;
+  opacity: 1;
   color: rgba(0, 0, 0, 0.25) !important;
 }
 
 /* line 240, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_form.scss */
 :-ms-input-placeholder {
-  opacity: 1.0;
+  opacity: 1;
   color: rgba(0, 0, 0, 0.25) !important;
 }
 
@@ -2453,7 +2564,7 @@ input[type="radio"] + label:before {
   text-rendering: auto;
   line-height: 1;
   text-transform: none !important;
-  font-family: 'Font Awesome 5 Free';
+  font-family: "Font Awesome 5 Free";
   font-weight: 400;
 }
 
@@ -2469,7 +2580,7 @@ input[type="radio"] + label:before {
 
 /* line 25, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_icon.scss */
 .icon.brands:before {
-  font-family: 'Font Awesome 5 Brands';
+  font-family: "Font Awesome 5 Brands";
 }
 
 /* Image */
@@ -2604,12 +2715,14 @@ input[type="radio"] + label:before {
 }
 
 /* line 108, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
-.image.left, .image.right {
+.image.left,
+.image.right {
   max-width: 40%;
 }
 
 /* line 112, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_image.scss */
-.image.left img, .image.right img {
+.image.left img,
+.image.right img {
   width: 100%;
 }
 
@@ -3048,7 +3161,7 @@ a.arrow:before {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  content: '';
+  content: "";
   display: inline-block;
   height: 100%;
   position: relative;
@@ -3215,7 +3328,7 @@ a.arrow:before {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 4rem;
-  content: '';
+  content: "";
   display: block;
   height: 4rem;
   left: 50%;
@@ -3232,7 +3345,7 @@ a.arrow:before {
   background-position: center;
   background-repeat: no-repeat;
   background-size: 3rem;
-  content: '';
+  content: "";
   cursor: pointer;
   display: block;
   height: 4rem;
@@ -3400,7 +3513,8 @@ ul.feature-icons li:before {
 }
 
 /* line 43, ../../../../Projects/natlaurindo.github.io/assets/sass/components/_feature-icons.scss */
-ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
+ul.feature-icons li:nth-child(1),
+ul.feature-icons li:nth-child(2) {
   margin-top: 0;
 }
 
@@ -3435,7 +3549,7 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
   background-position: -50% 10%;
   background-repeat: repeat-y;
   background-size: 75% auto;
-  content: '';
+  content: "";
   display: block;
   height: 100%;
   left: 0;
@@ -3509,8 +3623,8 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 
 /* line 242, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section > header:before {
-  background: #463963;
-  content: '';
+  background: #ffffff;
+  content: "";
   display: block;
   margin-top: 1rem;
   position: absolute;
@@ -3518,14 +3632,16 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 }
 
 /* line 252, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
-#wrapper > section > header h1, #wrapper > section > header h2 {
+#wrapper > section > header h1,
+#wrapper > section > header h2 {
   position: relative;
 }
 
 /* line 256, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
-#wrapper > section > header h1:before, #wrapper > section > header h2:before {
-  background: #463963;
-  content: '';
+#wrapper > section > header h1:before,
+#wrapper > section > header h2:before {
+  background: #ffffff;
+  content: "";
   display: block;
   height: 2px;
   position: absolute;
@@ -3533,10 +3649,11 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 }
 
 /* line 266, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
-#wrapper > section > header h1:after, #wrapper > section > header h2:after {
-  background: #463963;
+#wrapper > section > header h1:after,
+#wrapper > section > header h2:after {
+  background: #ffffff;
   border-radius: 0.5rem;
-  content: '';
+  content: "";
   display: block;
   height: 0.5rem;
   position: absolute;
@@ -3603,10 +3720,10 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 
 /* line 341, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
 #wrapper > section:last-of-type > header:after {
-  background: #463963;
+  background: #ffffff;
   border-radius: 0.5rem;
   bottom: -1.5rem;
-  content: '';
+  content: "";
   display: block;
   height: 0.5rem;
   position: absolute;
@@ -3656,13 +3773,15 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
 }
 
 /* line 44, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
-#wrapper > section > header h1:before, #wrapper > section > header h2:before {
+#wrapper > section > header h1:before,
+#wrapper > section > header h2:before {
   right: -5rem;
   width: 2.5rem;
 }
 
 /* line 50, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
-#wrapper > section > header h1:after, #wrapper > section > header h2:after {
+#wrapper > section > header h1:after,
+#wrapper > section > header h2:after {
   right: -2.5rem;
 }
 
@@ -3735,12 +3854,14 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
     left: calc(50vw - 4rem);
   }
   /* line 44, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
-  #wrapper > section > header h1:before, #wrapper > section > header h2:before {
+  #wrapper > section > header h1:before,
+  #wrapper > section > header h2:before {
     right: -4rem;
     width: 2rem;
   }
   /* line 50, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
-  #wrapper > section > header h1:after, #wrapper > section > header h2:after {
+  #wrapper > section > header h1:after,
+  #wrapper > section > header h2:after {
     right: -2rem;
   }
   /* line 59, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
@@ -3850,11 +3971,13 @@ ul.feature-icons li:nth-child(1), ul.feature-icons li:nth-child(2) {
     display: none;
   }
   /* line 454, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
-  #wrapper > section > header h1:before, #wrapper > section > header h2:before {
+  #wrapper > section > header h1:before,
+  #wrapper > section > header h2:before {
     display: none;
   }
   /* line 459, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
-  #wrapper > section > header h1:after, #wrapper > section > header h2:after {
+  #wrapper > section > header h1:after,
+  #wrapper > section > header h2:after {
     display: none;
   }
   /* line 468, ../../../../Projects/natlaurindo.github.io/assets/sass/layout/_wrapper.scss */
